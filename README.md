@@ -1,8 +1,9 @@
 
 <h2 align = "center">Table of Contents 📝</h2>
-<p align = "center"><a href="#About">1. About the project<a></p>
-<p align = "center"><a href="#Built">2. Built with</a></p>
-<p align = "center"><a href="#Usage">3. Usage</a></p>
+<p align = "center"><a href="https://cs1xd3.online/ShowModulePublish?modulePublishId=6e20c5d4-51db-445c-8183-8647fbb28cf1">1. View the app<a></p>
+<p align = "center"><a href="#About">2. About the project<a></p>
+<p align = "center"><a href="#Built">3. Built with</a></p>
+<p align = "center"><a href="#Usage">4. Usage</a></p>
 <div id = "About"><h2 align = "center">About the project 🤔</h2><div>
 Our <b>web-app</b>, is a comprehensive <b>math practice tool</b> that offers a variety of features to help users improve their math skills. The main product is an <b>exam tool</b> that allows users to choose the number of questions and a custom timer for each question. The app tracks <b>progress</b> and displays best attempt and average marks after a minimum of two attempts. 
 Additionally, it includes a tutorial page that provides basic methods for solving derivatives, integrals, and solid rotation questions. <b>The balloon popping mini-game</b> makes practicing math fun and engaging, with 10 levels that increase in difficulty as the user progresses. 
@@ -26,6 +27,8 @@ In addition to the mini-game and exam tool, Recalc also provides a tutorial page
 The products main emphasis has always been to motivate users to practice as much as they can and we hope this solves a lot of problems!
 
 <hr height="1px" width="100%">
+
+<p align = "center">If you've read this far and somehow missed the 'view project' button you can <a href="https://cs1xd3.online/ShowModulePublish?modulePublishId=6e20c5d4-51db-445c-8183-8647fbb28cf1"click here</a> to view our app</p>
   
 <h3 align = "center">Made with :heart:</h3>
 <h4 align = "center">(Team L1G2)</h4>
