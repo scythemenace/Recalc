@@ -10,7 +10,7 @@ The <b>resource page</b> is a helpful tool that consolidates quality resources i
 Overall, our web app addresses the common problem of a lack of math practice and provides users with an effective solution to improve their math skills.
 
 
-> <b>Please be advised that our web-app is currently in the prototype stage, and as such, may experience some technical issues or bugs.</b>
+> ⚠️<b>Please be advised that our web-app is currently in the prototype stage, and as such, may experience some technical issues or bugs.</b>
 
 <div id = "Built"><h2 align = "center">Built with 🛠️</h2><div>
 We built our web app purely using <b>Elm and the GraphicSVG library</b>. <b>Elm</b> is a functional programming language designed for building web applications. It is well-known for its speed, reliability and has a strong focus on user experience, making it a great choice for front-end development whereas <b>GraphicSVG</b> is an Elm library that enables developers to create dynamic and interactive graphics and animations using the functional programming paradigm. It is built on SVG and offers easy manipulation of graphical elements, making it ideal for creating responsive and customized designs.
