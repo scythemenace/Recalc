@@ -1,9 +1,36 @@
 
 <h2 align = "center">Table of Contents 📝</h2>
-<p align = "center"><a href="https://cs1xd3.online/ShowModulePublish?modulePublishId=6e20c5d4-51db-445c-8183-8647fbb28cf1">1. View the app<a></p>
+<p align = "center"><a href="#View">1. View the app<a></p>
 <p align = "center"><a href="#About">2. About the project<a></p>
 <p align = "center"><a href="#Built">3. Built with</a></p>
 <p align = "center"><a href="#Usage">4. Usage</a></p>
+
+<div id = "View"><h2 align = "center">View 🖥️</h2><div>
+<h3>Online</h3> - highly recommended!
+<a href="https://cs1xd3.online/ShowModulePublish?modulePublishId=6e20c5d4-51db-445c-8183-8647fbb28cf1">Click on the link</a> to view our project in McMaster Outreach IDE
+
+<h4>Note we don't recommend trying to view it locally because we have created our web app on the McMaster Outreach IDE in which we have imported the code using their database and our teammates' names.</h4>
+<h3>Locally</h3>
+First step, Install Elm. If you have your Node installed, you can use the following command to install Elm.
+```
+npm install -g elm
+```
+Then clone the code from the src/ folder (you may have to figure out importing the modules again)
+Modules can be importing after exposing each code by:-
+```
+module <name of the file> exposing (..)
+```
+and then by importing on to the file you want to by:-
+```
+import <the module name> exposing (..)
+```
+
+After cloning the code type this ↓ in your terminal
+```
+elm reactor
+```
+Then copy the url generated on your browser to view the the code generated from the src/ folder
+
 <div id = "About"><h2 align = "center">About the project 🤔</h2><div>
 Our <b>web-app</b>, is a comprehensive <b>math practice tool</b> that offers a variety of features to help users improve their math skills. The main product is an <b>exam tool</b> that allows users to choose the number of questions and a custom timer for each question. The app tracks <b>progress</b> and displays best attempt and average marks after a minimum of two attempts. 
 Additionally, it includes a tutorial page that provides basic methods for solving derivatives, integrals, and solid rotation questions. <b>The balloon popping mini-game</b> makes practicing math fun and engaging, with 10 levels that increase in difficulty as the user progresses. 
