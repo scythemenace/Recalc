@@ -26,5 +26,7 @@ In addition to the mini-game and exam tool, Recalc also provides a tutorial page
 
 The products main emphasis has always been to motivate users to practice as much as they can and we hope this solves a lot of problems!
 
+--
+  
 <h3 align = "center">Made with :heart:</h3>
-<p align = "center><b>Team L1G2<b></p>
+<h5 = "center">Team L1G2</h5>
