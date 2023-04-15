@@ -10,8 +10,10 @@
 <a href="https://cs1xd3.online/ShowModulePublish?modulePublishId=6e20c5d4-51db-445c-8183-8647fbb28cf1">Click on the link</a> to view our project in McMaster Outreach IDE
 
 <h4>Note we don't recommend trying to view it locally because we have created our web app on the McMaster Outreach IDE in which we have imported the code using their database and our teammates' names.</h4>
+  
 <h3>Locally</h3>
-First step, Install Elm. If you have your Node installed, you can use the following command to install Elm.
+
+First step, Install Elm. If you have your Node installed, you can use the following command to install Elm:-
 ```
 npm install -g elm
 ```
