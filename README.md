@@ -15,7 +15,7 @@ Overall, our web app addresses the common problem of a lack of math practice and
 <div id = "Built"><h2 align = "center">Built with 🛠️</h2><div>
 We built our web app purely using <b>Elm and the GraphicSVG library</b>. <b>Elm</b> is a functional programming language designed for building web applications. It is well-known for its speed, reliability and has a strong focus on user experience, making it a great choice for front-end development whereas <b>GraphicSVG</b> is an Elm library that enables developers to create dynamic and interactive graphics and animations using the functional programming paradigm. It is built on SVG and offers easy manipulation of graphical elements, making it ideal for creating responsive and customized designs.
 
-We had created this project as part of our course CS1XD3 at McMaster University and thus used the McMaster Outreach code editor as our IDE
+We had created this project as part of our course CS1XD3 at McMaster University and thus used the McMaster Outreach code editor as our IDE. Therefore, the only way to view our app is through the IDE.
 
 <div id = "Usage"><h2 align = "center">Usage 😀</h2><div>
 Recalc is primarily designed to help users practice math through its various features, including the balloon popping mini-game and the customizable exam tool. The balloon popping mini-game is a fun and interactive way for users to practice math while progressing through increasingly difficult levels. As users pop balloons by solving math problems, they improve their skills and get a sense of achievement.
