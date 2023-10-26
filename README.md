@@ -7,7 +7,7 @@
 
 <div id = "View"><h2 align = "center">View 🖥️</h2><div>
 <h3>Online</h3> - highly recommended!
-<a href="https://cs1xd3.online/ShowModulePublish?modulePublishId=6e20c5d4-51db-445c-8183-8647fbb28cf1">Click on the link</a> to view our project in McMaster Outreach IDE
+<a href="https://stabl.rocks/ShowModulePublish?modulePublishId=1ebfb57b-abdd-4d84-b15a-dd40b165ff4f">Click on the link</a> to view our project in McMaster Outreach IDE
 
 <h4>Note we don't recommend trying to view it locally because we have created our web app on the McMaster Outreach IDE in which we have imported the code using their database and our teammates' names.</h4>
   
