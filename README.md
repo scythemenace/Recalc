@@ -57,7 +57,7 @@ The products main emphasis has always been to motivate users to practice as much
 
 <hr height="1px" width="100%">
 
-  <p align = "center"><b>If you've read this far and somehow missed the "view project" button you can <a href="https://cs1xd3.online/ShowModulePublish?modulePublishId=6e20c5d4-51db-445c-8183-8647fbb28cf1"click here</a> to view our app<b></p>
+  <p align = "center"><b>If you've read this far and somehow missed the "view project" button you can <a href="https://stabl.rocks/ShowModulePublish?modulePublishId=1ebfb57b-abdd-4d84-b15a-dd40b165ff4f"click here</a> to view our app<b></p>
   
 <h3 align = "center">Made with :heart:</h3>
 <h4 align = "center">(Team L1G2)</h4>
